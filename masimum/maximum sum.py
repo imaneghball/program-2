@@ -27,3 +27,4 @@ def All_Max(Array):
 print(Mac_sum([-1,2,3,5]))
 print(Max_sum2([-1,2,3,5]))
 print(All_Max([-1,2,3,5,-30,5]))
+print("end")
